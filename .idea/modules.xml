@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mall-common/mall-common.iml" filepath="$PROJECT_DIR$/mall-common/mall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-mock/mall-mock.iml" filepath="$PROJECT_DIR$/mall-mock/mall-mock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-offline/mall-offline.iml" filepath="$PROJECT_DIR$/mall-offline/mall-offline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkmall.iml" filepath="$PROJECT_DIR$/sparkmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkmall-realtime/sparkmall-realtime.iml" filepath="$PROJECT_DIR$/sparkmall-realtime/sparkmall-realtime.iml" />
+    </modules>
+  </component>
+</project>
